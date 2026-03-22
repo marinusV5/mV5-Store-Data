@@ -1,12 +1,12 @@
 {
-  "apps_zip_file_id": "https://www.dropbox.com/scl/fi/7zcd47ipwlpxs4ktafa9i/all_apps_and_images.zip?rlkey=ffirpcetgjprsn1hv5fwikz77&st=ueap1bzw&dl=1",
-  "apps_zip_version": "1.5.3",
+  "apps_zip_version": "2.0.0",
   "apps": [
     {
       "name": "Calculator",
       "image_key": "calculator",
       "image_path": "apps/calculator/calculator.png",
       "icon_url": "https://i.imgur.com/HYAPhOP.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/calculator.zip",
       "command_type": "script",
       "value": "apps/calculator/calculator.py"
     },
@@ -15,6 +15,7 @@
       "image_key": "video",
       "image_path": "apps/videoplayer/assets/video.png",
       "icon_url": "https://i.imgur.com/p7EKy2M.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/videoplayer.zip",
       "command_type": "script",
       "value": "apps/videoplayer/videoplayer_pyqt5.pyw"
     },
@@ -23,6 +24,7 @@
       "image_key": "mV5music",
       "image_path": "apps/musicplayer/assets/mV5music.png",
       "icon_url": "https://i.imgur.com/mQZAdGX.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/musicplayer.zip",
       "command_type": "script",
       "value": "apps/musicplayer/musicplayer_pyqt5.pyw"
     },
@@ -31,6 +33,7 @@
       "image_key": "foto",
       "image_path": "apps/fotobeheerder/assets_photo/foto.png",
       "icon_url": "https://i.imgur.com/r8u41Xj.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/fotobeheerder.zip",
       "command_type": "script",
       "value": "apps/fotobeheerder/fotobeheerder.pyw"
     },
@@ -39,6 +42,7 @@
       "image_key": "handigewebsites",
       "image_path": "apps/handige websites/images/handigewebsites.png",
       "icon_url": "https://i.imgur.com/H9ntOI1.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/handigewebsites.zip",
       "command_type": "script",
       "value": "apps/handige websites/handigewebsites.pyw"
     },
@@ -47,6 +51,7 @@
       "image_key": "system",
       "image_path": "apps/systeem monitor/assets/system.png",
       "icon_url": "https://i.imgur.com/WGq64sH.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/systeemmonitor.zip",
       "command_type": "script",
       "value": "apps/systeem monitor/system.pyw"
     }
@@ -56,6 +61,7 @@
       "name": "3in1 games",
       "image_path": "apps/games/3in1games/games31.png",
       "icon_url": "https://i.imgur.com/Iuj6L3M.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/3in1games.zip",
       "command_type": "script",
       "value": "apps/games/3in1games/gametest.pyw"
     },
@@ -63,6 +69,7 @@
       "name": "Lolbird",
       "image_path": "apps/games/lolbird/lolbird.png",
       "icon_url": "https://i.imgur.com/AyuZ9Cc.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird.zip",
       "command_type": "script",
       "value": "apps/games/lolbird/lolbird.py"
     },
@@ -70,6 +77,7 @@
       "name": "Lolbird 2",
       "image_path": "apps/games/lolbird2/lolbird.png",
       "icon_url": "https://i.imgur.com/ZLRgzYc.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird2.zip",
       "command_type": "script",
       "value": "apps/games/lolbird2/lolbird2.py"
     },
@@ -77,6 +85,7 @@
       "name": "Lolbird 3",
       "image_path": "apps/games/lolbird3/assets/lolbird.png",
       "icon_url": "https://i.imgur.com/vWXrLCa.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird3.zip",
       "command_type": "script",
       "value": "apps/games/lolbird3/lolbird3.pyw"
     },
@@ -84,6 +93,7 @@
       "name": "mV5shooter2d",
       "image_path": "apps/games/mV5shooter2d/mV5shooter2d.png",
       "icon_url": "https://i.imgur.com/anQBqgv.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/mV5shooter2d.zip",
       "command_type": "script",
       "value": "apps/games/mV5shooter2d/mV5shooter2d.py"
     },
@@ -91,6 +101,7 @@
       "name": "Noortje Adventure",
       "image_path": "apps/games/noortje adventure/assets/NoortjeAdventure.png",
       "icon_url": "https://i.imgur.com/KEU4rMV.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/noortje_adventure.zip",
       "command_type": "script",
       "value": "apps/games/noortje adventure/noortje adventure.pyw"
     }
