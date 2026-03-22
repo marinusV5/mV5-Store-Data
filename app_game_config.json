@@ -87,7 +87,7 @@
       "name": "Lolbird World",
       "version": "1.0",
       "icon_url": "https://i.imgur.com/KuL1UHC.png",
-      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird_world.zip",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird.world.zip",
       "command_type": "script",
       "value": "apps/games/lolbird world/lolbird_world1.pyw"
     },
