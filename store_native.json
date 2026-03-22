@@ -1,6 +1,5 @@
 {
   "store_name": "mV5-OS Home Native Store",
-  "apps_zip_file_id": "PLAATS_HIER_JE_DROPBOX_LINK_VOOR_NATIVE_ZIP",
   "apps": [
     {
       "name": "mV5 Mediaspeler",
@@ -9,6 +8,7 @@
       "version": "1.0",
       "image_path": "mV5_mediaspeler/images/media.png",
       "icon_url": "https://i.imgur.com/QSp6mtl.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/mV5_mediaspeler.zip",
       "value": "mV5_mediaspeler/mV5_mediaspeler.exe",
       "IsGame": false,
       "CategoryGroup": "Native"
@@ -22,6 +22,7 @@
       "version": "1.0",
       "image_path": "lolbird world (home)/assets/Lolbird.png",
       "icon_url": "https://i.imgur.com/FQefYZT.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/LolbirdWorld.zip",
       "value": "lolbird world (home)/LolbirdWorld.exe",
       "IsGame": true,
       "CategoryGroup": "Native"
@@ -33,6 +34,7 @@
       "version": "1.0",
       "image_path": "superracers/assets/superracers.png",
       "icon_url": "https://i.imgur.com/ErEB0XR.png",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/SuperRacers.zip",
       "value": "superracers/SuperRacers.exe",
       "IsGame": true,
       "CategoryGroup": "Native"
