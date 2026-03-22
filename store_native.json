@@ -1,0 +1,41 @@
+{
+  "store_name": "mV5-OS Home Native Store",
+  "apps_zip_file_id": "PLAATS_HIER_JE_DROPBOX_LINK_VOOR_NATIVE_ZIP",
+  "apps": [
+    {
+      "name": "mV5 Mediaspeler",
+      "author": "mV5menu",
+      "description": "De nieuwe C# mediaspeler.",
+      "version": "1.0",
+      "image_path": "mV5_mediaspeler/images/media.png",
+      "icon_url": "https://i.imgur.com/QSp6mtl.png",
+      "value": "mV5_mediaspeler/mV5_mediaspeler.exe",
+      "IsGame": false,
+      "CategoryGroup": "Native"
+    }
+  ],
+  "games": [
+    {
+      "name": "Lolbird World (Home)",
+      "author": "mV5menu",
+      "description": "Vlieg de wereld rond in deze klassieke game!",
+      "version": "1.0",
+      "image_path": "lolbird world (home)/assets/Lolbird.png",
+      "icon_url": "https://i.imgur.com/FQefYZT.png",
+      "value": "lolbird world (home)/LolbirdWorld.exe",
+      "IsGame": true,
+      "CategoryGroup": "Native"
+    },
+    {
+      "name": "SuperRacers",
+      "author": "mV5menu",
+      "description": "Kies je profiel en race over verschillende circuits in deze snelle racegame!",
+      "version": "1.0",
+      "image_path": "superracers/assets/superracers.png",
+      "icon_url": "https://i.imgur.com/ErEB0XR.png",
+      "value": "superracers/SuperRacers.exe",
+      "IsGame": true,
+      "CategoryGroup": "Native"
+    }
+  ]
+}
