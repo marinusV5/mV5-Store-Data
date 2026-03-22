@@ -61,7 +61,7 @@
     },
     {
       "name": "Lolbird",
-      "version": "2.0",
+      "version": "2.1",
       "icon_url": "https://i.imgur.com/AyuZ9Cc.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird.zip",
       "command_type": "script",
