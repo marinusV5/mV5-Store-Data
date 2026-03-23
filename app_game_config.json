@@ -3,6 +3,8 @@
   "apps": [
     {
       "name": "Calculator",
+      "author": "mV5menu",
+      "description": "Een eenvoudige en snelle rekenmachine voor al je dagelijkse berekeningen.",
       "version": "1.0",
       "image_path": "calculator/calculator.png",
       "icon_url": "https://i.imgur.com/HYAPhOP.png",
@@ -12,6 +14,8 @@
     },
     {
       "name": "video player",
+      "author": "mV5menu",
+      "description": "Bekijk je favoriete video's met deze soepele PyQt5 videospeler.",
       "version": "1.2",
       "image_path": "videoplayer/assets/video.png",
       "icon_url": "https://i.imgur.com/p7EKy2M.png",
@@ -21,6 +25,8 @@
     },
     {
       "name": "music player",
+      "author": "mV5menu",
+      "description": "Luister naar je muziekcollectie met de geïntegreerde mV5 music player.",
       "version": "2.1",
       "image_path": "musicplayer/assets/mV5music.png",
       "icon_url": "https://i.imgur.com/mQZAdGX.png",
@@ -30,6 +36,8 @@
     },
     {
       "name": "fotobeheerder",
+      "author": "mV5menu",
+      "description": "Beheer en bekijk je foto's eenvoudig in deze overzichtelijke app.",
       "version": "1.1",
       "image_path": "fotobeheerder/assets_photo/foto.png",
       "icon_url": "https://i.imgur.com/r8u41Xj.png",
@@ -39,6 +47,8 @@
     },
     {
       "name": "handige websites",
+      "author": "mV5menu",
+      "description": "Een verzameling van de meest nuttige snelkoppelingen op het web.",
       "version": "1.0",
       "image_path": "handige websites/images/handigewebsites.png",
       "icon_url": "https://i.imgur.com/H9ntOI1.png",
@@ -48,6 +58,8 @@
     },
     {
       "name": "System Monitor",
+      "author": "mV5menu",
+      "description": "Houd je hardware en systeemprestaties in de gaten in real-time.",
       "version": "1.0",
       "image_path": "systeem monitor/assets/system.png",
       "icon_url": "https://i.imgur.com/WGq64sH.png",
@@ -59,6 +71,8 @@
   "games": [
     {
       "name": "3in1 games",
+      "author": "mV5menu",
+      "description": "Drie klassieke minigames gebundeld in één applicatie.",
       "version": "1.0.1",
       "image_path": "3in1games/games31.png",
       "icon_url": "https://i.imgur.com/Iuj6L3M.png",
@@ -68,6 +82,8 @@
     },
     {
       "name": "Lolbird",
+      "author": "mV5menu",
+      "description": "De game waar het allemaal mee begon. Ontwijk de obstakels!",
       "version": "2.1",
       "image_path": "lolbird/lolbird.png",
       "icon_url": "https://i.imgur.com/AyuZ9Cc.png",
@@ -77,6 +93,8 @@
     },
     {
       "name": "Lolbird 2",
+      "author": "mV5menu",
+      "description": "Het vervolg met nieuwe levels en verbeterde graphics.",
       "version": "1.1",
       "image_path": "lolbird2/lolbird.png",
       "icon_url": "https://i.imgur.com/ZLRgzYc.png",
@@ -86,6 +104,8 @@
     },
     {
       "name": "Lolbird 3",
+      "author": "mV5menu",
+      "description": "De meest uitdagende Lolbird tot nu toe met nieuwe mechanieken.",
       "version": "1.1",
       "image_path": "lolbird3/assets/lolbird.png",
       "icon_url": "https://i.imgur.com/vWXrLCa.png",
@@ -95,6 +115,8 @@
     },
     {
       "name": "Lolbird World",
+      "author": "mV5menu",
+      "description": "Verken verschillende omgevingen in de grootste Lolbird game voor Python.",
       "version": "1.0",
       "image_path": "lolbird world/Lolbird.png",
       "icon_url": "https://i.imgur.com/KuL1UHC.png",
@@ -104,6 +126,8 @@
     },
     {
       "name": "mV5shooter2d",
+      "author": "mV5menu",
+      "description": "Een snelle 2D shooter actiegame. Schakel alle vijanden uit!",
       "version": "1.2",
       "image_path": "mV5shooter2d/mV5shooter2d.png",
       "icon_url": "https://i.imgur.com/anQBqgv.png",
@@ -113,6 +137,8 @@
     },
     {
       "name": "Noortje Adventure",
+      "author": "mV5menu",
+      "description": "Ga op avontuur met Noortje in deze kleurrijke platformer.",
       "version": "2.0",
       "image_path": "noortje adventure/assets/NoortjeAdventure.png",
       "icon_url": "https://i.imgur.com/KEU4rMV.png",
