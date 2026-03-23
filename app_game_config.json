@@ -4,6 +4,7 @@
     {
       "name": "Calculator",
       "version": "1.0",
+      "image_path": "calculator/calculator.png",
       "icon_url": "https://i.imgur.com/HYAPhOP.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/calculator.zip",
       "command_type": "script",
@@ -12,6 +13,7 @@
     {
       "name": "video player",
       "version": "1.2",
+      "image_path": "videoplayer/assets/video.png",
       "icon_url": "https://i.imgur.com/p7EKy2M.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/videoplayer.zip",
       "command_type": "script",
@@ -20,6 +22,7 @@
     {
       "name": "music player",
       "version": "2.1",
+      "image_path": "musicplayer/assets/mV5music.png",
       "icon_url": "https://i.imgur.com/mQZAdGX.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/musicplayer.zip",
       "command_type": "script",
@@ -28,6 +31,7 @@
     {
       "name": "fotobeheerder",
       "version": "1.1",
+      "image_path": "fotobeheerder/assets_photo/foto.png",
       "icon_url": "https://i.imgur.com/r8u41Xj.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/fotobeheerder.zip",
       "command_type": "script",
@@ -36,6 +40,7 @@
     {
       "name": "handige websites",
       "version": "1.0",
+      "image_path": "handige websites/images/handigewebsites.png",
       "icon_url": "https://i.imgur.com/H9ntOI1.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/handigewebsites.zip",
       "command_type": "script",
@@ -44,6 +49,7 @@
     {
       "name": "System Monitor",
       "version": "1.0",
+      "image_path": "systeem monitor/assets/system.png",
       "icon_url": "https://i.imgur.com/WGq64sH.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/systeemmonitor.zip",
       "command_type": "script",
@@ -54,6 +60,7 @@
     {
       "name": "3in1 games",
       "version": "1.0.1",
+      "image_path": "3in1games/games31.png",
       "icon_url": "https://i.imgur.com/Iuj6L3M.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/3in1games.zip",
       "command_type": "script",
@@ -62,6 +69,7 @@
     {
       "name": "Lolbird",
       "version": "2.1",
+      "image_path": "lolbird/lolbird.png",
       "icon_url": "https://i.imgur.com/AyuZ9Cc.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird.zip",
       "command_type": "script",
@@ -70,6 +78,7 @@
     {
       "name": "Lolbird 2",
       "version": "1.1",
+      "image_path": "lolbird2/lolbird.png",
       "icon_url": "https://i.imgur.com/ZLRgzYc.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird2.zip",
       "command_type": "script",
@@ -78,6 +87,7 @@
     {
       "name": "Lolbird 3",
       "version": "1.1",
+      "image_path": "lolbird3/assets/lolbird.png",
       "icon_url": "https://i.imgur.com/vWXrLCa.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird3.zip",
       "command_type": "script",
@@ -86,6 +96,7 @@
     {
       "name": "Lolbird World",
       "version": "1.0",
+      "image_path": "lolbird world/Lolbird.png",
       "icon_url": "https://i.imgur.com/KuL1UHC.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird.world.zip",
       "command_type": "script",
@@ -94,6 +105,7 @@
     {
       "name": "mV5shooter2d",
       "version": "1.2",
+      "image_path": "mV5shooter2d/mV5shooter2d.png",
       "icon_url": "https://i.imgur.com/anQBqgv.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/mV5shooter2d.zip",
       "command_type": "script",
@@ -102,6 +114,7 @@
     {
       "name": "Noortje Adventure",
       "version": "2.0",
+      "image_path": "noortje adventure/assets/NoortjeAdventure.png",
       "icon_url": "https://i.imgur.com/KEU4rMV.png",
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/noortje_adventure.zip",
       "command_type": "script",
