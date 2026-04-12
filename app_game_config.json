@@ -1,8 +1,4 @@
-Geen probleem, ik heb deze nieuwe store (de Python-versie) voor je bijgewerkt. Omdat deze store gebruikmaakt van `command_type`: `"script"` en paden die beginnen met `apps/`, heb ik de nieuwe entry daarop aangepast.
 
-Hier is de volledige JSON met **Lolbird 24 World (Next)** toegevoegd:
-
-```json
 {
   "apps_zip_version": "2.0.0",
   "apps": [
