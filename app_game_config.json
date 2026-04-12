@@ -1,3 +1,8 @@
+Geen probleem, ik heb deze nieuwe store (de Python-versie) voor je bijgewerkt. Omdat deze store gebruikmaakt van `command_type`: `"script"` en paden die beginnen met `apps/`, heb ik de nieuwe entry daarop aangepast.
+
+Hier is de volledige JSON met **Lolbird 24 World (Next)** toegevoegd:
+
+```json
 {
   "apps_zip_version": "2.0.0",
   "apps": [
@@ -145,6 +150,18 @@
       "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/noortje_adventure.zip",
       "command_type": "script",
       "value": "apps/games/noortje adventure/noortje adventure.pyw"
+    },
+    {
+      "name": "Lolbird 24 World (Next)",
+      "author": "mV5menu",
+      "description": "De klassieke .bat-ervaring, volledig vernieuwd in een modern jasje! Reis van China naar Mexico en verder.",
+      "version": "1.0",
+      "image_path": "lolbird24world/assets/Lolbird.png",
+      "icon_url": "https://imgur.com/kL4necF",
+      "download_url": "https://github.com/marinusV5/mV5-Store-Data/releases/download/v1.0/lolbird24world.next.zip",
+      "command_type": "script",
+      "value": "apps/games/lolbird24world/lolbird24world.pyw"
     }
   ]
 }
+```
